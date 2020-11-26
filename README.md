@@ -19,7 +19,7 @@ Simple Website Creating Guide
 
 
 ## 10 word Summary
-This website emphasizes in in-depth steps necessary to established a website
+This website emphasizes on the in-depth steps necessary to established a website
 
 
 
