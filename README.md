@@ -26,7 +26,7 @@ Progressions
 - Start to combine in index.html
 - See information in other folders within Child Pages (linked in index.html)
 - See Flexbox Lesson (including the 2 & 3 column examples) to layout semantic tags as originally intended
-- Review the .. symbol to create links from the indexFLexbox.html to other pages or documen
+- Review the .. symbol to create links from the indexFLexbox.html to other pages or document
 
 ## Text Data
 
